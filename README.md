@@ -2,8 +2,8 @@
 
 **Table of Content**
 - [Pioneer Works](#pioneer-works-back-to-top)
-- [Spectral Filtering](#spectral-filtering-back-to-top)
 - [Problem Rethinking](#problem-rethinking-back-to-top)
+- [Spectral Filtering](#spectral-filtering-back-to-top)
 - [Connection to Robustness and Oversmoothing](#connection-to-robustness-and-oversmoothing-back-to-top)
 - [Node-wise Learning](#node-wise-learning-back-to-top)
 - [Topology-Structure vs Node-Features](#topology-structure-vs-node-features-back-to-top)
@@ -21,6 +21,14 @@
 | 2020 | **Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs**  | NeurIPS 2020 | [Link](https://proceedings.neurips.cc/paper/2020/hash/58ae23d878a47004366189884c2f8440-Abstract.html) | [Link](https://github.com/GemsLab/H2GCN) |
 
 
+### Problem Rethinking [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2022 | **Is Homophily a necessity for graph neural networks?**  | ICLR 2022 | [Link](https://openreview.net/pdf?id=ucASPPD9GKN) | [Link]() |
+| 2021 | **Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification?**  | Arxiv 2021 | [Link](https://arxiv.org/abs/2109.05641) | [Link]() |
+| 2021 | **On Local Aggregation in Heterophilic Graphs**  | Arxiv 2021 | [Link](https://arxiv.org/abs/2106.03213) | [Link]() |
+
+
 ### Spectral Filtering [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
@@ -28,14 +36,6 @@
 | 2022 | **How Powerful are Spectral Graph Neural Networks**  | ICML 2022 | [Link](https://arxiv.org/abs/2205.11172) | [Link]() |
 | 2021 | **BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation**  | NeurIPS 2021 | [Link](https://arxiv.org/abs/2106.10994) | [Link](https://github.com/ivam-he/BernNet) |
 | 2021 | **Adaptive Universal Generalized PageRank Graph Neural Network**  | ICLR 2021  | [Link](https://arxiv.org/abs/2006.07988) | [Link](https://github.com/jianhao2016/GPRGNN) |
-
-
-### Problem Rethinking [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
-| Year   | Title  | Venue |  Paper | Code  |
-|-------|--------|--------|--------|-----------|
-| 2022 | **Is Homophily a necessity for graph neural networks?**  | ICLR 2022 | [Link](https://openreview.net/pdf?id=ucASPPD9GKN) | [Link]() |
-| 2021 | **Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification?**  | Arxiv 2021 | [Link](https://arxiv.org/abs/2109.05641) | [Link]() |
-| 2021 | **On Local Aggregation in Heterophilic Graphs**  | Arxiv 2021 | [Link](https://arxiv.org/abs/2106.03213) | [Link]() |
 
 
 ### Connection to Robustness and Oversmoothing [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
