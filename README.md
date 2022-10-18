@@ -97,3 +97,6 @@
 | 2022 | **Deformable Graph Convolutional Networks**  | AAAI 2022 | [Link](https://arxiv.org/abs/2112.14438) | [Link](https://github.com/mlvlab/DeformableGCN) |
 | 2022 | **Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily**  | AAAI 2022 | [Link](https://arxiv.org/abs/2112.13562) | [Link]() |
 | 2022 | **Label-Wise Message Passing Graph Neural Network on Heterophilic Graphs**  | Arxiv 2022 | [Link](https://arxiv.org/abs/2110.08128) | [Link]()|
+
+## Other Resource [[Back to Top](#gnn-based-complex-graph-learning-papers)]
+[[Blog] Revisiting the problem of heterophily for GNNs](https://www.jiongzhu.net/revisiting-heterophily-GNNs/)
