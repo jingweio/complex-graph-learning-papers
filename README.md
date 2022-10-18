@@ -1,4 +1,4 @@
-# GNN-based Complex Graph Learning Papers
+# Awesome GNN-based Complex Graph Learning Papers
 
 **Table of Content**
 
