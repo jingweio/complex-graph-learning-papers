@@ -60,8 +60,8 @@
 ### Node-wise Learning [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2022 | **Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily**  | WWW 2022 | [Link](https://arxiv.org/abs/2203.10280) | [Link]()|
 | 2022| **PA-GNN: Parameter-Adaptive Graph Neural Networks**  | ICML WS 2022 | [Link](https://dynn-icml2022.github.io/spapers/paper_6.pdf) | [Link]() |
+| 2022 | **Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily**  | WWW 2022 | [Link](https://arxiv.org/abs/2203.10280) | [Link]()|
 | 2021 | **Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns**  | KDD 2021 | [Link](https://arxiv.org/abs/2106.06586) | [Link](https://github.com/susheels/gnns-and-local-assortativity) |
 
 
