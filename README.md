@@ -3,11 +3,11 @@
 **Table of Content**
 - [Pioneer Works](#pioneer-works-back-to-top)
 - [Problem Rethinking](#problem-rethinking-back-to-top)
-- [Spectral Filtering](#spectral-filtering-back-to-top)
-- [Connection to Robustness and Oversmoothing](#connection-to-robustness-and-oversmoothing-back-to-top)
-- [Node-wise Learning](#node-wise-learning-back-to-top)
-- [Topology-Structure vs Node-Features](#topology-structure-vs-node-features-back-to-top)
 - [Parwise Node Similarity and Dissimilarity](#parwise-node-similarity-and-dissimilarity-back-to-top)
+- [Topology-Structure vs Node-Features](#topology-structure-vs-node-features-back-to-top)
+- [Spectral Filtering](#spectral-filtering-back-to-top)
+- [Node-wise Learning](#node-wise-learning-back-to-top)
+- [Connection to Robustness and Oversmoothing](#connection-to-robustness-and-oversmoothing-back-to-top)
 - [Generative Unsupervised Learning](#generative-unsupervised-learning-back-to-top)
 - [Benchmarks](#benchmarks-back-to-top)
 - [Other Categories](#others-categories-back-to-top)
@@ -29,30 +29,13 @@
 | 2021 | **On Local Aggregation in Heterophilic Graphs**  | Arxiv 2021 | [Link](https://arxiv.org/abs/2106.03213) | [Link]() |
 
 
-### Spectral Filtering [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
+### Parwise Node Similarity and Dissimilarity [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2022 | **Simplified Graph Convolution with Heterophily**  | NeuraIPS 2022 | [Link](https://arxiv.org/abs/2202.04139) | [Link]() |
-| 2022 | **How Powerful are Spectral Graph Neural Networks**  | ICML 2022 | [Link](https://arxiv.org/abs/2205.11172) | [Link]() |
-| 2021 | **BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation**  | NeurIPS 2021 | [Link](https://arxiv.org/abs/2106.10994) | [Link](https://github.com/ivam-he/BernNet) |
-| 2021 | **Adaptive Universal Generalized PageRank Graph Neural Network**  | ICLR 2021  | [Link](https://arxiv.org/abs/2006.07988) | [Link](https://github.com/jianhao2016/GPRGNN) |
-
-
-### Connection to Robustness and Oversmoothing [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
-| Year   | Title  | Venue |  Paper | Code  |
-|-------|--------|--------|--------|-----------|
-| 2022 | **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**  | NeuraIPS 2022 | [Link](https://arxiv.org/abs/2202.04579) | [Link]() |
-| 2022 | **How does Heterophily Impact the Robustness of Graph NeuralNetworks? Theoretical Connections and Practical Implications**  | KDD 2022 | [Link](https://arxiv.org/pdf/2106.07767.pdf) | [Link](https://github.com/GemsLab/HeteRobust) |
-| 2022 | **Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks**  | ICDM 2022 | [Link](https://arxiv.org/abs/2102.06462) | [Link](https://github.com/yujun-yan/heterophily_and_oversmoothing) |
-| 2022 | **Understanding and Improving Graph Injection Attack by Promoting Unnoticeability**  | ICLR 2022 | [Link](https://openreview.net/pdf?id=wkMG8cdvh7-) | [Link](https://github.com/LFhase/GIA-HAO) |
-
-
-### Node-wise Learning [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
-| Year   | Title  | Venue |  Paper | Code  |
-|-------|--------|--------|--------|-----------|
-| 2022 | **Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily**  | WWW 2022 | [Link](https://arxiv.org/abs/2203.10280) | [Link]()|
-| 2022| **PA-GNN: Parameter-Adaptive Graph Neural Networks**  | ICML WS 2022 | [Link](https://dynn-icml2022.github.io/spapers/paper_6.pdf) | [Link]() |
-| 2021 | **Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns**  | KDD 2021 | [Link](https://arxiv.org/abs/2106.06586) | [Link](https://github.com/susheels/gnns-and-local-assortativity) |
+| 2021 | **Beyond Low-frequency Information in Graph Convolutional Networks**  | AAAI 2021 | [Link](https://arxiv.org/abs/2101.00797) | [Link](https://github.com/bdy9527/FAGCN) |
+| 2021 | **Node Similarity Preserving Graph Convolutional Networks**  | WSDM 2021 | [Link](https://arxiv.org/abs/2011.09643) | [Link](https://github.com/ChandlerBang/SimP-GCN) |
+| 2022 | **Polarized Graph Neural Networks**  | WWW 2022 | [Link](https://dl.acm.org/doi/10.1145/3485447.3512187) | [Link]() |
+| 2022 | **GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily**  | WWW 2022 | [Link](https://arxiv.org/abs/2110.15777) | [Link](https://github.com/Xzh0u/GBK-GNN) |
 
 
 ### Topology-Structure vs Node-Features [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
@@ -65,13 +48,30 @@
 | 2021 | **Graph Neural Networks with Heterophily**  | AAAI 2021 | [Link](https://arxiv.org/abs/2009.13566) | [Link](https://github.com/GemsLab/CPGNN) 
 
 
-### Parwise Node Similarity and Dissimilarity [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
+### Spectral Filtering [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2021 | **Beyond Low-frequency Information in Graph Convolutional Networks**  | AAAI 2021 | [Link](https://arxiv.org/abs/2101.00797) | [Link](https://github.com/bdy9527/FAGCN) |
-| 2021 | **Node Similarity Preserving Graph Convolutional Networks**  | WSDM 2021 | [Link](https://arxiv.org/abs/2011.09643) | [Link](https://github.com/ChandlerBang/SimP-GCN) |
-| 2022 | **Polarized Graph Neural Networks**  | WWW 2022 | [Link](https://dl.acm.org/doi/10.1145/3485447.3512187) | [Link]() |
-| 2022 | **GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily**  | WWW 2022 | [Link](https://arxiv.org/abs/2110.15777) | [Link](https://github.com/Xzh0u/GBK-GNN) |
+| 2022 | **Simplified Graph Convolution with Heterophily**  | NeuraIPS 2022 | [Link](https://arxiv.org/abs/2202.04139) | [Link]() |
+| 2022 | **How Powerful are Spectral Graph Neural Networks**  | ICML 2022 | [Link](https://arxiv.org/abs/2205.11172) | [Link]() |
+| 2021 | **BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation**  | NeurIPS 2021 | [Link](https://arxiv.org/abs/2106.10994) | [Link](https://github.com/ivam-he/BernNet) |
+| 2021 | **Adaptive Universal Generalized PageRank Graph Neural Network**  | ICLR 2021  | [Link](https://arxiv.org/abs/2006.07988) | [Link](https://github.com/jianhao2016/GPRGNN) |
+
+
+### Node-wise Learning [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2022 | **Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily**  | WWW 2022 | [Link](https://arxiv.org/abs/2203.10280) | [Link]()|
+| 2022| **PA-GNN: Parameter-Adaptive Graph Neural Networks**  | ICML WS 2022 | [Link](https://dynn-icml2022.github.io/spapers/paper_6.pdf) | [Link]() |
+| 2021 | **Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns**  | KDD 2021 | [Link](https://arxiv.org/abs/2106.06586) | [Link](https://github.com/susheels/gnns-and-local-assortativity) |
+
+
+### Connection to Robustness and Oversmoothing [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2022 | **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**  | NeuraIPS 2022 | [Link](https://arxiv.org/abs/2202.04579) | [Link]() |
+| 2022 | **How does Heterophily Impact the Robustness of Graph NeuralNetworks? Theoretical Connections and Practical Implications**  | KDD 2022 | [Link](https://arxiv.org/pdf/2106.07767.pdf) | [Link](https://github.com/GemsLab/HeteRobust) |
+| 2022 | **Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks**  | ICDM 2022 | [Link](https://arxiv.org/abs/2102.06462) | [Link](https://github.com/yujun-yan/heterophily_and_oversmoothing) |
+| 2022 | **Understanding and Improving Graph Injection Attack by Promoting Unnoticeability**  | ICLR 2022 | [Link](https://openreview.net/pdf?id=wkMG8cdvh7-) | [Link](https://github.com/LFhase/GIA-HAO) |
 
 
 ### Generative Unsupervised Learning [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
