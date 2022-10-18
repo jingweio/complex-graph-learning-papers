@@ -10,7 +10,8 @@
 - [Parwise Node Similarity and Dissimilarity](#parwise-node-similarity-and-dissimilarity-back-to-top)
 - [Generative Unsupervised Learning](#generative-unsupervised-learning-back-to-top)
 - [Benchmarks](#benchmarks-back-to-top)
-- [Others](#others-back-to-top)
+- [Other Categories](#others-categories-back-to-top)
+- [Web Resource](#web-resource-back-to-top)
 
 
 ### Pioneer Works [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
@@ -87,7 +88,7 @@
 | 2021 | **Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods**  | NeurIPS 2021 | [Link](https://proceedings.neurips.cc/paper/2021/hash/ae816a80e4c1c56caa2eb4e1819cbb2f-Abstract.html) | [Link](https://github.com/CUAI/Non-Homophily-Large-Scale) |
 
 
-### Others [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
+### Others Categories [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2021 | **Universal Graph Convolutional Networks**  | NeurIPS 2021 | [Link](https://proceedings.neurips.cc/paper/2021/file/5857d68cd9280bc98d079fa912fd6740-Paper.pdf) | [Link](https://github.com/jindi-tju/U-GCN) |
