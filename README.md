@@ -38,7 +38,7 @@
 | 2022 | **Graph Auto-Encoder Via Neighborhood Wasserstein Reconstruction**  | ICLR 2022 | [Link](https://arxiv.org/abs/2202.09025) | [Link](https://github.com/mtang724/NWR-GAE) |
 | 2022 | **Graph Neural Networks Beyond Compromise Between Attributeand Topology**  | WWW 2022 | [Link](https://yangliang.github.io/pdf/www22.pdf) | [Link]() |
 | 2022 | **Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily**  | WWW 2022 | [Link](https://arxiv.org/abs/2203.10280) | [Link]()|
-| 2022 | **Understanding and Improving Graph Injection Attack by Promoting Unnoticeability**  |  | [Link](https://openreview.net/pdf?id=wkMG8cdvh7-) | [Link](https://github.com/LFhase/GIA-HAO) |
+| 2022 | **Understanding and Improving Graph Injection Attack by Promoting Unnoticeability**  | ICLR 2022 | [Link](https://openreview.net/pdf?id=wkMG8cdvh7-) | [Link](https://github.com/LFhase/GIA-HAO) |
 | 2022 | **Deformable Graph Convolutional Networks**  | 2022 AAAI | [Link](https://arxiv.org/abs/2112.14438) | [Link](https://github.com/mlvlab/DeformableGCN) |
 | 2022 | **Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily**  | 2022 AAAI | [Link](https://arxiv.org/abs/2112.13562) | [Link]() |
 | 2022 | **Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks**  | 2022 ICDM | [Link](https://arxiv.org/abs/2102.06462) | [Link](https://github.com/yujun-yan/heterophily_and_oversmoothing) |
