@@ -59,7 +59,7 @@
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2022 | **Graph Neural Networks Beyond Compromise Between Attributeand Topology**  | WWW 2022 | [Link](https://yangliang.github.io/pdf/www22.pdf) | [Link]() |
-| 2022 | **ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting**  |  Arxiv 2022 | [Link]() | [Link]()|
+| 2022 | **ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting**  |  Arxiv 2022 | [Link](https://arxiv.org/abs/2205.13700) | [Link]()|
 | 2021 | **Graph Structure Estimation Neural Networks**  |  WWW 2021 | [Link](http://www.shichuan.org/doc/103.pdf) | [Link](https://github.com/BUPT-GAMMA/Graph-Structure-Estimation-Neural-Networks) |
 | 2021 | **WGCN: Graph Convolutional Networks with Weighted Structural Features**  | SIGIR 2021 | [Link](https://arxiv.org/abs/2104.14060) | [Link](https://github.com/ruizhang-ai/WGCN_Graph-Convolutional-Networks-with-Weighted-Structural-Features) |
 | 2021 | **Graph Neural Networks with Heterophily**  | AAAI 2021 | [Link](https://arxiv.org/abs/2009.13566) | [Link](https://github.com/GemsLab/CPGNN) 
