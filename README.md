@@ -41,29 +41,28 @@
 ### Topology-Structure vs Node-Features [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2022 | **Graph Neural Networks Beyond Compromise Between Attributeand Topology**  | WWW 2022 | [Link](https://yangliang.github.io/pdf/www22.pdf) | [Link]() |
-| 2022 | **ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting**  |  Arxiv 2022 | [Link](https://arxiv.org/abs/2205.13700) | [Link]()|
 | 2021 | **Graph Structure Estimation Neural Networks**  |  WWW 2021 | [Link](http://www.shichuan.org/doc/103.pdf) | [Link](https://github.com/BUPT-GAMMA/Graph-Structure-Estimation-Neural-Networks) |
 | 2021 | **WGCN: Graph Convolutional Networks with Weighted Structural Features**  | SIGIR 2021 | [Link](https://arxiv.org/abs/2104.14060) | [Link](https://github.com/ruizhang-ai/WGCN_Graph-Convolutional-Networks-with-Weighted-Structural-Features) |
 | 2021 | **Graph Neural Networks with Heterophily**  | AAAI 2021 | [Link](https://arxiv.org/abs/2009.13566) | [Link](https://github.com/GemsLab/CPGNN) 
+| 2022 | **Graph Neural Networks Beyond Compromise Between Attributeand Topology**  | WWW 2022 | [Link](https://yangliang.github.io/pdf/www22.pdf) | [Link]() |
+| 2022 | **ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting**  |  Arxiv 2022 | [Link](https://arxiv.org/abs/2205.13700) | [Link]()|
 
 
 ### Spectral Filtering [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2021 | **Adaptive Universal Generalized PageRank Graph Neural Network**  | ICLR 2021  | [Link](https://arxiv.org/abs/2006.07988) | [Link](https://github.com/jianhao2016/GPRGNN) |
+| 2021 | **BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation**  | NeurIPS 2021 | [Link](https://arxiv.org/abs/2106.10994) | [Link](https://github.com/ivam-he/BernNet) |
 | 2022 | **Simplified Graph Convolution with Heterophily**  | NeuraIPS 2022 | [Link](https://arxiv.org/abs/2202.04139) | [Link]() |
 | 2022 | **How Powerful are Spectral Graph Neural Networks**  | ICML 2022 | [Link](https://arxiv.org/abs/2205.11172) | [Link]() |
-| 2021 | **BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation**  | NeurIPS 2021 | [Link](https://arxiv.org/abs/2106.10994) | [Link](https://github.com/ivam-he/BernNet) |
-| 2021 | **Adaptive Universal Generalized PageRank Graph Neural Network**  | ICLR 2021  | [Link](https://arxiv.org/abs/2006.07988) | [Link](https://github.com/jianhao2016/GPRGNN) |
 
 
 ### Node-wise Learning [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2022| **PA-GNN: Parameter-Adaptive Graph Neural Networks**  | ICML WS 2022 | [Link](https://dynn-icml2022.github.io/spapers/paper_6.pdf) | [Link]() |
-| 2022 | **Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily**  | WWW 2022 | [Link](https://arxiv.org/abs/2203.10280) | [Link]()|
 | 2021 | **Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns**  | KDD 2021 | [Link](https://arxiv.org/abs/2106.06586) | [Link](https://github.com/susheels/gnns-and-local-assortativity) |
-
+| 2022 | **Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily**  | WWW 2022 | [Link](https://arxiv.org/abs/2203.10280) | [Link]()|
+| 2022| **PA-GNN: Parameter-Adaptive Graph Neural Networks**  | ICML WS 2022 | [Link](https://dynn-icml2022.github.io/spapers/paper_6.pdf) | [Link]() |
 
 ### Connection to Robustness and Oversmoothing [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
@@ -77,8 +76,9 @@
 ### Generative Unsupervised Learning [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2022 | **Decoupled Self-supervised Learning for Non-Homophilous Graphs**  | NeuraIPS 2022 | [Link](https://arxiv.org/abs/2206.03601?context=cs) | [Link]() |
 | 2022 | **Graph Auto-Encoder Via Neighborhood Wasserstein Reconstruction**  | ICLR 2022 | [Link](https://arxiv.org/abs/2202.09025) | [Link](https://github.com/mtang724/NWR-GAE) |
+| 2022 | **Decoupled Self-supervised Learning for Non-Homophilous Graphs**  | NeuraIPS 2022 | [Link](https://arxiv.org/abs/2206.03601?context=cs) | [Link]() |
+
 
 
 ### Benchmarks [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
