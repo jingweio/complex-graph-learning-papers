@@ -100,5 +100,5 @@
 | 2022 | **Label-Wise Message Passing Graph Neural Network on Heterophilic Graphs**  | Arxiv 2022 | [Link](https://arxiv.org/abs/2110.08128) | [Link]()|
 
 
-## Web Resource [[Back to Top](#awesome-gnn-based-complex-graph-learning-papers)]
+## Web Resource 
 [[Blog] Revisiting the problem of heterophily for GNNs](https://www.jiongzhu.net/revisiting-heterophily-GNNs/)
